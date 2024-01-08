@@ -1,0 +1,45 @@
+.source:hover,
+.source:active {
+  color: #3b82f6;
+}
+
+.source:link,
+.source:visited {
+  color: #a8a29e;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.source:hover,
+.source:active {
+  color: #3b82f6;
+}
+
+.fact {
+  font-size: 20px;
+  line-height: 1.4;
+  background-color: #44403c;
+  margin-bottom: 16px;
+  padding: 16px 24px;
+  letter-spacing: 0px;
+  border-radius: 16px;
+  overflow: auto;
+}
+
+h3 {
+  font: bold 22px sans-serif;
+  margin-bottom: 15px;
+}
+
+.fact p {
+  font-size: 17px;
+  margin-bottom: 15px;
+}
+
+.fact .category {
+  float: right;
+}
+
+.vote-buttons > span {
+  cursor: pointer;
+}
